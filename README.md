@@ -1,6 +1,8 @@
 # rust_realtime_table
 Web API project that provides stock price quoting for few stocks.
 the following features are supported:
+
+
 Via API clients can:
  - Submit price changes
  - Get the price of a stock symbol

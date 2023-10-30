@@ -13,11 +13,8 @@ Via websockets a client can:
  - Listen for stock price change event
 
 
-
 ### Main UI look
 ![image](https://github.com/jcalahor/rust_realtime_table/assets/7434088/336abd66-a64b-47fb-bc1d-e6ef6190872b)
-
-
 
 
 
@@ -27,19 +24,14 @@ Via websockets a client can:
 
 
 
-
-
 ### Submit a stock price change
 ![image](https://github.com/jcalahor/rust_realtime_table/assets/7434088/3e184572-4a0e-4dd1-a8f1-669aa898921e)
-
-
 
 
 
 ### Check stock price changed
 
 ![image](https://github.com/jcalahor/rust_realtime_table/assets/7434088/a624fb6d-8057-4eb1-85a1-239bbd923451)
-
 
 ## TODOS:
 

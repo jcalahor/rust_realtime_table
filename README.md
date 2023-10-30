@@ -1,6 +1,14 @@
 # rust_realtime_table
-Broacast stock price changes via websockets
+Web API project that provides stock price quoting for few stocks.
+the following features are supported:
+Via API clients can:
+ - Submit price changes
+ - Get the price of a stock symbol
+ - Get a snapshot of prices
 
+Via websockets a client can:
+ - Get a snapshot of prices
+ - Listen for stock price change event
 
 
 

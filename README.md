@@ -36,7 +36,7 @@ Via websockets a client can:
 
 
 
-# Check stock price changed
+### Check stock price changed
 ![image](https://github.com/jcalahor/rust_realtime_table/assets/7434088/a624fb6d-8057-4eb1-85a1-239bbd923451)
 
 

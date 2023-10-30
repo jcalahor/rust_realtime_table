@@ -20,11 +20,6 @@ Get Table Snapshot
 
 
 Submit a stock price change
-
-
-
-
-
 ![image](https://github.com/jcalahor/rust_realtime_table/assets/7434088/3e184572-4a0e-4dd1-a8f1-669aa898921e)
 
 

@@ -41,7 +41,7 @@ Via websockets a client can:
 ![image](https://github.com/jcalahor/rust_realtime_table/assets/7434088/a624fb6d-8057-4eb1-85a1-239bbd923451)
 
 
-###TODOS:
+## TODOS:
 
  - Detailed Documentation/Readme
  - Accept price changes via kafka and broadcast to the client sockets
